@@ -12,7 +12,7 @@ public class listaBorrando {
 
         for (int i = 0; i< 10; i++){
             int num = sc.nextInt();
-            numeros.add(num);
+            numeros.add(i);
         }
         System.out.println(numeros);
 
